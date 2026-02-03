@@ -5,17 +5,16 @@
       "created_at": 1707038400000,
       "expires_at": 9999999999999,
       "is_active": true,
-      "description": "vip"
+      "description": "VIP Key"
     },
     {
       "hash": "lurnx-5748457",
       "created_at": 1707038400000,
       "expires_at": 9999999999999,
       "is_active": true,
-      "description": "vip"
+      "description": "VIP Key "
     }
   ],
   "last_used_key": "",
   "last_login": 0
 }
-
