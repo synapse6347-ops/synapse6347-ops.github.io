@@ -14,6 +14,11 @@
       "key_hash": "cc75443d8979fe5cdbdf2de55b822ec8b63bc55348c2e451b46b19f4746885ca",
       "active": true,
       "expiry": "2026-12-31"
+    },
+    {
+      "key_hash": "656d5be9b84397105deefd04cb2e83f4f3d448bccfaa953d6f62021b50f6488a",
+      "active": true,
+      "expiry": "2026-12-31"
     }
   ]
 }
