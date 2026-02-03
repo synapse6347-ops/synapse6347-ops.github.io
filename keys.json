@@ -5,14 +5,14 @@
       "created_at": 1707038400000,
       "expires_at": 9999999999999,
       "is_active": true,
-      "description": "Admin Key - Sınırsız"
+      "description": "vip"
     },
     {
       "hash": "lurnx-5748457",
       "created_at": 1707038400000,
       "expires_at": 9999999999999,
       "is_active": true,
-      "description": "VIP Key - Sınırsız"
+      "description": "vip"
     }
   ],
   "last_used_key": "",
